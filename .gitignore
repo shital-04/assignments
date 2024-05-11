@@ -1,0 +1,6 @@
+.classpath
+.gitignore.txt
+.project
+.settings/
+bin/
+test-output/
