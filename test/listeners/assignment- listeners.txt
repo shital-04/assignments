@@ -1,0 +1,2 @@
+1. Implement WebDriver Event listeners and use in your tests.
+2. Google on Event Listeners provided by TestNG

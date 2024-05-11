@@ -1,0 +1,2 @@
+Implement Log4j in your atleast 3 test cases.
+Try different configurations in your log4j.xml

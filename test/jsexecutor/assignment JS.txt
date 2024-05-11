@@ -1,0 +1,4 @@
+1. Goto annauniv.edu and click on "Departments" menu using Javascript
+2. Goto Flipkart.com, and bring "Shopsy" link into view.
+(which is at the bottom of the flipkart home page)
+and then click on that link
